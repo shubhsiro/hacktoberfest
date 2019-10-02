@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Shubham Sirothiya](https://github.com/shubhsiro)
+- Place: Jhansi, India
+- Bio: Student
+- Github: [Shubham Sirothiya](https://github.com/shubhsiro)
